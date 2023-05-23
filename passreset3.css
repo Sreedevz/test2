@@ -1,0 +1,64 @@
+.btnarmy {
+    border: none;
+    font-size: 13px;
+    line-height: 18px;
+    border-radius: 6px;
+    padding:0.9em;
+    background: transparent;
+    font-weight: 600;
+    margin-top: 40px;
+   
+  
+    
+  }
+  .btn-primarymain{
+    background: #072452;
+    color:#FFFFFF;
+    transition: all 0.25 cubic-bezier(0.165, 0.84, 0.44, 1);
+    cursor:pointer;
+    width:402.2px;
+    
+  }
+  .btn-secondary{
+    background:#FFFFFF;
+    color:#64748B;
+    margin-left:133px
+  }
+  .btn-primary:active{
+    transform:scale(0.9);
+  }
+  .input-wrapper .input-label {
+    font-family: "Noto Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+
+    color: #1e293b;
+}
+
+.input-wrapper {
+    width:402.2px;
+   
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+.input-wrapper .input {
+    padding:1em 0.75em;
+    background: #FFFFFF;
+/* Gray-400 */
+
+border: 1px solid #CED4DA;
+border-radius: 6px;
+}
+.heading{
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+color:black;
+margin-top: 174px;
+
+}

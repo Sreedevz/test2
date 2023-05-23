@@ -1,0 +1,61 @@
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+}
+
+@media (min-width: 1025px) {
+    .h-custom-2 {
+        height: 100%;
+    }
+
+}
+.heading{
+   margin-top:284px; 
+   font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+
+}
+.heading2{
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+color: #64748B;
+margin-top:10px;
+
+
+}
+.btnarmy {
+    width:402.2px;
+    height:45.19px;
+    border: none;
+    font-size: 13px;
+    line-height: 18px;
+    border-radius: 6px;
+    padding:0.9em;
+    background: transparent;
+    font-weight: 600;
+    margin-top: 33px;
+    margin-left:-10px;
+    
+    
+  }
+  .btn-primarymain{
+    background: #1E293B;
+    color:#FFFFFF;
+    transition: all 0.25 cubic-bezier(0.165, 0.84, 0.44, 1);
+    cursor:pointer;
+    
+  }
+  .btn-secondary{
+    background:#FFFFFF;
+    color:#64748B;
+  }
+  .btn-primary:active{
+    transform:scale(0.9);
+  }

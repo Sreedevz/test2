@@ -1,0 +1,260 @@
+
+.bg-image-vertical {
+  position: relative;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: auto 100%;
+  }
+  
+  @media (min-width: 1025px) {
+  .h-custom-2 {
+  height: 100%;
+  }
+  }
+  .zigma {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+ 
+  }
+  .zigma2{
+      font-family: 'Noto Sans';
+              font-style: normal;
+              font-weight: 400;
+              font-size: 16px;
+  }
+  .zigma3{
+  font-family: 'Noto Sans';
+              font-style: normal;
+              font-weight: 600;
+              font-size: 13px; 
+  }
+  .zigma4{
+      font-family: 'Noto Sans';
+              font-style: normal;
+              font-weight: 600;
+              font-size: 13px;
+  }
+  .zigma5{
+      box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 11px 12px;
+
+width: 356px;
+height: 43px;
+
+/* White */
+
+background: #FFFFFF;
+/* Gray-400 */
+
+border: 1px solid #CED4DA;
+border-radius: 6px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+  }
+  .zigma6{
+      font-family: 'Noto Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 13px;
+  }
+  .zigma7{
+      box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 11px 12px;
+
+width: 356px;
+height: 43px;
+
+/* White */
+
+background: #FFFFFF;
+/* Gray-400 */
+
+border: 1px solid #CED4DA;
+border-radius: 6px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+  }
+  .input-wrapper .input-label {
+    font-family: "Noto Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+
+    color: #1e293b;
+}
+
+.input-wrapper {
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+.input-wrapper .input {
+    padding:1em 0.75em;
+    background: #FFFFFF;
+/* Gray-400 */
+
+border: 1px solid #CED4DA;
+border-radius: 6px;
+}
+.zigma9{
+      
+  }
+  .zigma9{
+      font-family: 'Noto Sans';
+              font-style: normal;
+              font-weight: 400;
+              font-size: 13px;
+  }
+  .zigma10{
+      font-family: 'Noto Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 13px; background:#FFFFFF; border:none
+  }
+  .zigma11{
+      font-family: 'Noto Sans';
+      font-style: normal;
+      font-weight: 600;
+      width:50%; height: 43px;
+      font-size: 13px;line-height: 18px;
+      display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 24px;
+gap: 7px;
+width: 356px;
+height: 40px;
+color:#FFFFFF;
+background: #1E293B;
+border-radius: 6px;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+  }
+  .zigma12{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 24px;
+    gap: 4px;
+    
+    width: 356px;
+    height: 40px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    /* Gray-500 */
+    
+    border: 1px solid #ADB5BD;
+    border-radius: 6px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    
+
+
+  }
+  .zigma14{
+     width:33px
+  }
+  .zigma13{
+    box-sizing: border-box;
+
+top: 8.33%;
+bottom: 10.42%;
+border: 1px solid #DEE2E6;
+  }
+  .zigma15{
+    width: 155px;
+height: 18px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+color: #1E293B;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+  }
+.zigma16{
+width: 63px;
+height: 18px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 18px;
+color: #1E293B;
+flex: none;
+order: 1;
+flex-grow: 0;
+border:none;
+
+}
+.btnarmy {
+  border: none;
+  font-size: 13px;
+  line-height: 18px;
+  border-radius: 6px;
+  padding:0.9em;
+  background: transparent;
+  font-weight: 600;
+
+  
+}
+.btn-primarymain{
+  background: #072452;
+  color:#FFFFFF;
+  transition: all 0.25 cubic-bezier(0.165, 0.84, 0.44, 1);
+  cursor:pointer;
+  
+}
+.btn-secondary{
+  background:#FFFFFF;
+  color:#64748B;
+}
+.btn-primary:active{
+  transform:scale(0.9);
+}

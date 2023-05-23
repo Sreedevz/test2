@@ -1,0 +1,291 @@
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    
+    @media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 100%;
+    }
+    }
+    .zigma1{
+        
+width: 279px;
+height: 50px;
+
+/* H1 */
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 125%;
+/* identical to box height, or 50px */
+
+letter-spacing: -0.8px;
+
+/* Dark */
+
+color: #1E293B;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top:44px;
+
+    }
+    .zigma2{
+        width: 307px;
+height: 24px;
+
+/* Body */
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+/* Secondary */
+
+color: #64748B;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+    }
+.zigma3{
+    width: 39px;
+height: 21px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 21px;
+/* identical to box height, or 160% */
+
+
+/* Dark */
+
+color: #1E293B;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.zigma4{
+    box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 11px 12px;
+
+width: 356px;
+height: 43px;
+
+/* White */
+
+background: #FFFFFF;
+/* Gray-400 */
+
+border: 1px solid #CED4DA;
+border-radius: 6px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.zigma5{
+    width: 90px;
+    height: 21px;
+    
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 21px;
+    /* identical to box height, or 160% */
+    
+    
+    /* Dark */
+    
+    color: #1E293B;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.zigma6{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 12px;
+    
+    width: 356px;
+    height: 43px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    /* Gray-400 */
+    
+    border: 1px solid #CED4DA;
+    border-radius: 6px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.zigma7{
+    width: 61px;
+    height: 21px;
+    
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 21px;
+    /* identical to box height, or 160% */
+    
+    
+    /* Dark */
+    
+    color: #1E293B;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.zigma8{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 11px 12px;
+    
+    width: 356px;
+    height: 43px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    /* Gray-400 */
+    
+    border: 1px solid #CED4DA;
+    border-radius: 6px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.zigma9{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 24px;
+    gap: 7px;
+    
+    width: 356px;
+    height: 40px;
+    
+    /* Dark */
+    
+    background: #1E293B;
+    border-radius: 6px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    color:#FFFFFF;
+}
+.zigma10{
+    width: 142px;
+    height: 18px;
+    
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    /* Dark */
+    
+    color: #1E293B;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.zigma11{
+    width: 48px;
+    height: 18px;
+    
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    /* Dark */
+    
+    color: #1E293B;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+

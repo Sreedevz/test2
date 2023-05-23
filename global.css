@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --large: "Noto Sans";
+  
+    /* font sizes */
+    --large-size: 18px;
+    --font-size-smi: 13px;
+    --xs-bold-size: 12px;
+    --small-size: 14px;
+    --body-size: 16px;
+    --h1-size: 40px;
+  
+    /* Colors */
+    --white: #fff;
+    --dark: #1e293b;
+    --gray-500: #adb5bd;
+    --gray-400: #ced4da;
+    --secondary: #64748b;
+  
+    /* Gaps */
+    --gap-9xs: 4px;
+    --gap-base: 16px;
+    --gap-5xs: 8px;
+  
+    /* Paddings */
+    --padding-5xl: 24px;
+    --padding-2xs: 11px;
+    --padding-xs: 12px;
+  
+    /* border radiuses */
+    --br-7xs: 6px;
+    --br-5xs: 8px;
+  }
+  
